@@ -1,7 +1,7 @@
 # TIL
 Today what I learned....
 
-** 2000.07.13 **
+** 2022.07.13 **
 
 - Contants and Variables
 - Type Annotation & Type Inference
