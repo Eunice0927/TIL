@@ -10,3 +10,16 @@ Today what I learned....
 - Basic Operators
 - Function
 - Git install
+
+* * *
+## Settings
+
+- Github Repository Creation
+- Git-Local Connect
+- Install Brew - Mac install manager
+- VS Code install with brew
+- Install zsh
+
+* * *
+## Tips
+
